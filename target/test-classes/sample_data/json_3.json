@@ -1,0 +1,12 @@
+{
+  "people": [
+        {
+          "name": "Nial",
+          "address": "Martinez"
+        },
+        {
+          "name": "Coty",
+          "address": "Belgrano"
+        }
+    ]
+}

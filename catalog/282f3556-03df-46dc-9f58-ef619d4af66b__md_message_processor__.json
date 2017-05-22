@@ -1,0 +1,13 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {}
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "Transformation"
+        }
+    },
+    "id": "282f3556-03df-46dc-9f58-ef619d4af66b",
+    "version": "5.2.0.0"
+}
